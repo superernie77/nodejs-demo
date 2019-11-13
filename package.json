@@ -1,2 +1,11 @@
 {
+  "scripts": {
+	  "start:server": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "file:node_modules\\nodemon"
+  },
+  "dependencies": {
+    "express": "file:node_modules\\express"
+  }
 }
