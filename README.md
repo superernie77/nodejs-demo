@@ -16,3 +16,13 @@ Install nodemon locally
 ```
 npm install --save-dev express
 ```
+After this, create a nodemon script in package.json file:
+```
+{
+...
+   "scripts": {
+	    "start:server": "nodemon server.js"
+  },
+...
+}
+```
