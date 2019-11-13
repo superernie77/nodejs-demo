@@ -1,6 +1,6 @@
 const express = require('express')
 
-comst app = express();
+const app = express();
 
 app.use((req,res,next) => {
   console.log('first');
@@ -11,4 +11,4 @@ app.use((req,res,next) => {
   res.send('hello from express');
 });
 
-module.export = app;
+module.exports = app;
