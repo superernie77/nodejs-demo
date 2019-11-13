@@ -1,2 +1,10 @@
-# nodejs-demo
-nodejs-demo
+# nodejs cheatsheet
+
+Run a Javascript file with NodeJs:
+```javascript
+node [filename]
+```
+e.g.
+```javascript
+node server.js
+```
