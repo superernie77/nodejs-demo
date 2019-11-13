@@ -8,3 +8,7 @@ e.g.
 ```javascript
 node server.js
 ```
+Install Express:
+```
+npm install --save express
+```
