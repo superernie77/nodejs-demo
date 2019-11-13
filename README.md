@@ -12,3 +12,7 @@ Install Express:
 ```
 npm install --save express
 ```
+Install nodemon locally
+```
+npm install --save-dev express
+```
