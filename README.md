@@ -26,3 +26,7 @@ After this, create a nodemon script in package.json file:
 ...
 }
 ```
+Run server with nodemon:
+```
+npm run start:server
+```
