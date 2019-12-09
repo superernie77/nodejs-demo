@@ -30,3 +30,9 @@ Run server with nodemon:
 ```
 npm run start:server
 ```
+Useful dependencies:
+
+For validation of unique properties in mongoose model files:
+```
+npm install --save mongoose-unique-validator
+```
