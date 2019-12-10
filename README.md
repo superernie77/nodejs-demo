@@ -36,8 +36,13 @@ For validation of unique properties in mongoose model files:
 ```
 npm install --save mongoose-unique-validator
 ```
-Encrypting passwords in DB:
+Encrypting passwords in DB with bcrypt:
 ```
 npm install --save bcrypt
 ```
+Manage JWTs with jsonwebtoken
+```
+npm install --save jsonwebtoken
+```
+
 
